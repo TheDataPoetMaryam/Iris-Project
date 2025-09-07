@@ -15,9 +15,13 @@ Interactive Streamlit application for predictions
 The project uses the classic Iris dataset.
 
 Iris Project/
+<br>
 ├── predictor.py            # Streamlit app for predictions
+<br>
 ├── iris_model.ipynb        # Main training + evaluation script
+<br>
 ├── Iris.csv                # Dataset
+<br>
 └── README.md               # Documentation
 
 ⚙️ Methodology
@@ -83,4 +87,5 @@ You can then enter flower measurements and get the predicted species with confid
 ✍️ Authors
 
 Maryam Shaikh
+<br>
 M.Sc. Applied Statistics
