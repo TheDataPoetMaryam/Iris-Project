@@ -15,17 +15,11 @@ This project implements a Decision Tree Classifier to predict the species of iri
 
 1) Exploratory Data Analysis (EDA)
 2) Outlier removal
-<br>
 3) Feature correlation analysis
-<br>
 4) Hyperparameter tuning with cross-validation
-<br>
 5) Cost Complexity Pruning (CCP)
-<br>
 6) Model evaluation (confusion matrix, accuracy, learning curve)
-<br>
 7) Model explainability using SHAP
-<br>
 8) Interactive Streamlit application for predictions
 
 The project uses the classic Iris dataset.
