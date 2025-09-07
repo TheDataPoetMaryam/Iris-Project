@@ -96,6 +96,7 @@ You can then enter flower measurements and get the predicted species with confid
 1) Achieved high test accuracy with pruned Decision Tree
 2) Visualizations of decision boundaries, confusion matrix, feature importance
 3) SHAP explainability demonstrates feature contributions.
+4) classifier is designed to predict the correct class for new data inputs, fulfilling the project’s purpose.
 
 📚 Dependencies:
 
