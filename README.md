@@ -13,21 +13,21 @@ Iris Species Classification using Decision Tree
 
 This project implements a Decision Tree Classifier to predict the species of iris flowers based on their morphological features. The pipeline covers:
 
-Exploratory Data Analysis (EDA)
+1) Exploratory Data Analysis (EDA)
 <br>
-Outlier removal
+2) Outlier removal
 <br>
-Feature correlation analysis
+3) Feature correlation analysis
 <br>
-Hyperparameter tuning with cross-validation
+4) Hyperparameter tuning with cross-validation
 <br>
-Cost Complexity Pruning (CCP)
+5) Cost Complexity Pruning (CCP)
 <br>
-Model evaluation (confusion matrix, accuracy, learning curve)
+6) Model evaluation (confusion matrix, accuracy, learning curve)
 <br>
-Model explainability using SHAP
+7) Model explainability using SHAP
 <br>
-Interactive Streamlit application for predictions
+8) Interactive Streamlit application for predictions
 
 The project uses the classic Iris dataset.
 
@@ -63,13 +63,13 @@ Cost Complexity Pruning (CCP Alpha optimization)
 
 4) Evaluation Metrics
 
-Accuracy, confusion matrix, classification report
+i) Accuracy, confusion matrix, classification report
 <br>
-Learning curve for bias-variance tradeoff
+ii) Learning curve for bias-variance tradeoff
 <br>
-Feature importance plots
+iii) Feature importance plots
 <br>
-SHAP summary plots for interpretability
+iv) SHAP summary plots for interpretability
 
 5) Deployment
 
@@ -116,7 +116,6 @@ You can then enter flower measurements and get the predicted species with confid
 Screenshot of APP
 <br>
 ![App Screenshot](Iris_predictor_SS.png)
-
 
 ✍️ Authors
 
