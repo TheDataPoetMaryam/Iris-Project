@@ -3,6 +3,7 @@ Iris Species Classification using Decision Tree
 # Iris Species Classification using Decision Tree  
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
+<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-brightgreen)  
 ![License](https://img.shields.io/badge/License-MIT-yellow)  
