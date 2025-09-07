@@ -1,15 +1,23 @@
 Iris Species Classification using Decision Tree
+<br>
 📌 Project Overview
 
 This project implements a Decision Tree Classifier to predict the species of iris flowers based on their morphological features. The pipeline covers:
 
 Exploratory Data Analysis (EDA)
+<br>
 Outlier removal
+<br>
 Feature correlation analysis
+<br>
 Hyperparameter tuning with cross-validation
+<br>
 Cost Complexity Pruning (CCP)
+<br>
 Model evaluation (confusion matrix, accuracy, learning curve)
+<br>
 Model explainability using SHAP
+<br>
 Interactive Streamlit application for predictions
 
 The project uses the classic Iris dataset.
@@ -29,28 +37,35 @@ Iris Project/
 1) Exploratory Data Analysis (EDA)
 
 Histograms and boxplots to explore distributions
+<br>
 Correlation heatmap
 
 2) Data Cleaning
 
 Outlier removal using IQR method
+<br>
 Balanced species distribution
 
 3) Model Training
 
 Decision Tree with GridSearchCV for hyperparameter tuning
+<br>
 Cost Complexity Pruning (CCP Alpha optimization)
 
 4) Evaluation Metrics
 
 Accuracy, confusion matrix, classification report
+<br>
 Learning curve for bias-variance tradeoff
+<br>
 Feature importance plots
+<br>
 SHAP summary plots for interpretability
 
 5) Deployment
 
 Trained model saved with joblib
+<br>
 Streamlit app for user interaction and predictions
 
 🚀 How to Run
@@ -58,8 +73,11 @@ Prerequisites:
 1) Python 3.8+
 2) Install dependencies:
    pip install -r requirements.txt
+   <br>
 Training the Model
+<br>
 Run the training script / notebook:
+<br>
    python iris_model.py
 
 This will:
@@ -67,7 +85,9 @@ This will:
 2) Generate evaluation plots
 3) Save the trained model in Outputs/
    Running the Streamlit App
+   <br>
            streamlit run predictor.py
+   <br>
 You can then enter flower measurements and get the predicted species with confidence scores.
 
 📊 Results
