@@ -113,6 +113,11 @@ You can then enter flower measurements and get the predicted species with confid
 5) joblib
 6) streamlit
 
+Screenshot of APP
+<br>
+![App Screenshot](Iris_predictor_SS.png)
+
+
 ✍️ Authors
 
 Maryam Shaikh
