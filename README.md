@@ -14,7 +14,6 @@ Iris Species Classification using Decision Tree
 This project implements a Decision Tree Classifier to predict the species of iris flowers based on their morphological features. The pipeline covers:
 
 1) Exploratory Data Analysis (EDA)
-<br>
 2) Outlier removal
 <br>
 3) Feature correlation analysis
