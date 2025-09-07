@@ -1,5 +1,16 @@
 Iris Species Classification using Decision Tree
 <br>
+# Iris Species Classification using Decision Tree  
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
+<br>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)  
+<br>
+![Streamlit](https://img.shields.io/badge/Streamlit-App-brightgreen)  
+<br>
+![License](https://img.shields.io/badge/License-MIT-yellow)  
+<br>
+
 📌 Project Overview
 
 This project implements a Decision Tree Classifier to predict the species of iris flowers based on their morphological features. The pipeline covers:
